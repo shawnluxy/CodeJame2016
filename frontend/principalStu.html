@@ -1,0 +1,124 @@
+<!DOCTYPE = html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<link rel="stylesheet" href="assets/css/main.css" />
+
+ 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+ 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<style src="jquery.js"></style>
+
+	<style type="text/css">
+        tr{
+            color: rgba(255, 255, 255, 0.65);
+        },
+        tr:hover {
+            color: rgba(255, 255, 255, 0.65);
+            background-color: black;
+        }
+        /*input[type=text] {
+			float:right;
+   			width: 200px;
+    		box-sizing: border-box;
+    		border: 2px solid #ccc;
+    		border-radius: 4px;
+    		font-size: 16px;
+    		background-color: white;
+    		padding: 12px 20px 12px;
+            -webkit-transition: width 0.8s ease-in-out;
+    		transition: width 0.4s ease-in-out;
+		}
+		input[type=text]:focus {
+    		width: 30%;
+		}*/
+	</style>
+    </style>
+</head>
+<body>
+	<div class=" text-center">
+		<h1 style="color: rgba(255, 255, 255, 0.65);">Search Student schedule</h1>
+		<p style="color: rgba(255, 255, 255, 0.65);">Principal's version</p>
+	</div> 
+	<div class="container" style="margin-top: 60px">
+		<div>
+			<div class="row">
+				<div>
+					<a href="principalHome.html">
+					<button type="button" style="color: rgba(255, 255, 255, 0.65);">HOME</button>
+					</a>
+					<input type="text" id="search" onkeyup="searchName()" placeholder="Search Student..." style="color: rgba(255, 255, 255, 0.65);">
+				</div>
+			</div>
+		</div>
+		<div>
+			<table class="table table-hover" id="allStudent">
+				<thead>
+					<tr>
+						<th>Firstname</th>
+						<th>Lastname</th>
+						<th>Full Registration</th>
+						<th>Check Schedule</th>
+						<th style="display: none"> Fullname </th>
+					</tr>
+				</thead>
+				<tbody>
+					
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+
+
+<!-- Footer -->
+					<footer id="footer" style="color:rgba(255, 255, 255, 0.65)">
+						<p>&copy; Code.Jam( ) Team24.</p>
+					</footer>
+
+
+	<script type="text/javascript">
+//		var fakeStudentFile = '{"1": ["CANDELARIO, AQUINO",{"avail1": {"day": "Monday","start": "08:00am","end": "07:00pm"},"avail2": {"day": "Tuesday","start": "08:00am","end": "01:00pm"},"avail3": {"day": "Tuesday","start": "02:00pm","end": "07:00pm"},"avail4": {"day": "Wednesday","start": "08:00am","end": "08:00pm"},"avail5": {"day": "Thursday","start": "NA","end": "NA"},"avail6": {"day": "Friday","start": "08:00am","end": "12:30pm"},"avail7": {"day": "Friday","start": "01:00pm","end":"07:00pm"}}],"2": ["THERON, AVERETT",{"avail1": {"day": "Monday","start": "08:00am","end": "12:00pm"}}],"3": ["ALEX, ANDERSON",{"avail1": {"day": "Monday","start": "08:00am","end": "12:00pm"}}]}'
+//		var obj = JSON.parse(fakeStudentFile);
+		var obj = {};
+		obj["students"] = JSON.parse(localStorage.getItem("studentList"));
+		var nameList = new Array;
+
+		for(var student in obj.students){
+			var studentName;
+			studentName = obj.students[student].name; 
+			var fullName = new Array;
+			fullName = studentName.split(",");
+			nameList.push(fullName);
+		}
+
+		for(var i = 0; i < nameList.length; i++) {
+			$("#allStudent > tbody").append("<tr><td>" + nameList[i][0] + "</td><td>" + nameList[i][1] + "</td><td>" + "N/A" + "</td><td>" + "Add Links Later" + "</td><td style='display:none'>" + nameList[i][0] + nameList[i][1] + "</td></tr>");
+		}
+	</script>
+	<script type="text/javascript">
+		function searchName() {
+		  	var input, filter, table, tr, td, i;
+		  	input = document.getElementById("search");
+		  	filter = input.value.toUpperCase();
+		  	table = document.getElementById("allStudent");
+		  			
+		  	tr = table.getElementsByTagName("tr");
+
+		  	for (i = 0; i < tr.length; i++) {
+		    	td = tr[i].getElementsByTagName("td")[4];
+		    
+		    	if (td) {
+		      		if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+		        		tr[i].style.display = "";
+		      		} 
+		      		else {
+		        		tr[i].style.display = "none";
+		      		}
+		      	}
+		    } 
+	  	}
+	</script>
+</body>
+</html>

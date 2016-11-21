@@ -1,0 +1,1506 @@
+{
+    "classes": {
+        "Mathematics": {
+            "MONDAY-AM0830-AM1030": {
+                "student1": {
+                    "id": "79",
+                    "name": "BAHLEBBY, AMDEMICHAEL"
+                },
+                "student2": {
+                    "id": "68",
+                    "name": "NIKOS, APOSTOLOPOALOS"
+                },
+                "student3": {
+                    "id": "20",
+                    "name": "VINCENT, BALDASSANO"
+                },
+                "student4": {
+                    "id": "80",
+                    "name": "BILAL, ALI"
+                },
+                "student5": {
+                    "id": "72",
+                    "name": "EARL, ALEXANDER"
+                },
+                "student6": {
+                    "id": "27",
+                    "name": "LOUIS, AGUILAR"
+                },
+                "student7": {
+                    "id": "41",
+                    "name": "CAROLYN, ALLAIN"
+                },
+                "student8": {
+                    "id": "73",
+                    "name": "ELIZABETH, ALCANTARA"
+                },
+                "student9": {
+                    "id": "49",
+                    "name": "CARRIE, AUSTIN"
+                },
+                "student10": {
+                    "id": "32",
+                    "name": "PATRICK, ASHE"
+                },
+                "student11": {
+                    "id": "47",
+                    "name": "SANDRA, ALLEN"
+                },
+                "student12": {
+                    "id": "3",
+                    "name": "ALEX, ANDERSON"
+                },
+                "student13": {
+                    "id": "5",
+                    "name": "TERRY, ALLEN"
+                },
+                "student14": {
+                    "id": "16",
+                    "name": "BLAIR, ALTENBACH"
+                },
+                "student15": {
+                    "id": "14",
+                    "name": "JAIME, ALVARADO"
+                },
+                "student16": {
+                    "id": "15",
+                    "name": "GRACE, AKINLEMIBOLA"
+                },
+                "student17": {
+                    "id": "52",
+                    "name": "ALESIA, ARELLANO"
+                },
+                "student18": {
+                    "id": "12",
+                    "name": "WILLIAM, ABBRUZZESE"
+                },
+                "student19": {
+                    "id": "61",
+                    "name": "DAVID, ANDREWS"
+                }
+            },
+            "TUESDAY-AM0800-AM1000": {
+                "student1": {
+                    "id": "55",
+                    "name": "JOSE, ALVAREZ"
+                },
+                "student2": {
+                    "id": "45",
+                    "name": "ALEJANDRO, ALMAZAN"
+                },
+                "student3": {
+                    "id": "19",
+                    "name": "EDWARD, ANNUNZIO"
+                },
+                "student4": {
+                    "id": "4",
+                    "name": "DANIEL, ANDUJAR"
+                },
+                "student5": {
+                    "id": "6",
+                    "name": "J, ALDANA"
+                },
+                "student6": {
+                    "id": "77",
+                    "name": "FABIAN, ALBARRAN"
+                },
+                "student7": {
+                    "id": "59",
+                    "name": "LESTER, ANDERSON"
+                },
+                "student8": {
+                    "id": "57",
+                    "name": "RAGINA, BAGGETTE"
+                },
+                "student9": {
+                    "id": "18",
+                    "name": "JOHN, BAJIC"
+                },
+                "student10": {
+                    "id": "29",
+                    "name": "SCOTT, AHERN"
+                },
+                "student11": {
+                    "id": "25",
+                    "name": "ISABEL, ARENAS"
+                },
+                "student12": {
+                    "id": "70",
+                    "name": "MICHAEL, BAILEY"
+                }
+            }
+        },
+        "Physics": {
+            "TUESDAY-AM0830-AM1030": {
+                "student1": {
+                    "id": "67",
+                    "name": "BAHLEBBY, AMDEMICHAEL"
+                },
+                "student2": {
+                    "id": "22",
+                    "name": "ABEL, AZUL"
+                },
+                "student3": {
+                    "id": "69",
+                    "name": "MICHELLE, ASHFORD"
+                },
+                "student4": {
+                    "id": "48",
+                    "name": "ROBERT, AMSTADT"
+                }
+            },
+            "WEDNESDAY-AM0800-AM1000": {
+                "student1": {
+                    "id": "62",
+                    "name": "CAMUHOO, AITKEN"
+                },
+                "student2": {
+                    "id": "80",
+                    "name": "BILAL, ALI"
+                },
+                "student3": {
+                    "id": "72",
+                    "name": "EARL, ALEXANDER"
+                },
+                "student4": {
+                    "id": "41",
+                    "name": "CAROLYN, ALLAIN"
+                },
+                "student5": {
+                    "id": "50",
+                    "name": "HIRAM, ARAGONES"
+                },
+                "student6": {
+                    "id": "73",
+                    "name": "ELIZABETH, ALCANTARA"
+                },
+                "student7": {
+                    "id": "60",
+                    "name": "RONALD, BADAMI"
+                },
+                "student8": {
+                    "id": "49",
+                    "name": "CARRIE, AUSTIN"
+                },
+                "student9": {
+                    "id": "32",
+                    "name": "PATRICK, ASHE"
+                },
+                "student10": {
+                    "id": "28",
+                    "name": "TIMOTHY, ALLEN"
+                },
+                "student11": {
+                    "id": "47",
+                    "name": "SANDRA, ALLEN"
+                },
+                "student12": {
+                    "id": "44",
+                    "name": "JEFFREY, ADAMOW"
+                },
+                "student13": {
+                    "id": "3",
+                    "name": "ALEX, ANDERSON"
+                },
+                "student14": {
+                    "id": "5",
+                    "name": "TERRY, ALLEN"
+                },
+                "student15": {
+                    "id": "38",
+                    "name": "CLARISSA, ACEVEDO"
+                },
+                "student16": {
+                    "id": "15",
+                    "name": "GRACE, AKINLEMIBOLA"
+                },
+                "student17": {
+                    "id": "34",
+                    "name": "JASON, ARELLANO"
+                },
+                "student18": {
+                    "id": "61",
+                    "name": "DAVID, ANDREWS"
+                }
+            }
+        },
+        "Biology": {
+            "WEDNESDAY-AM0830-AM1030": {
+                "student1": {
+                    "id": "65",
+                    "name": "DAVID, ALPERS"
+                },
+                "student2": {
+                    "id": "33",
+                    "name": "MAJED, ASSAF"
+                },
+                "student3": {
+                    "id": "4",
+                    "name": "DANIEL, ANDUJAR"
+                },
+                "student4": {
+                    "id": "77",
+                    "name": "FABIAN, ALBARRAN"
+                },
+                "student5": {
+                    "id": "59",
+                    "name": "LESTER, ANDERSON"
+                },
+                "student6": {
+                    "id": "18",
+                    "name": "JOHN, BAJIC"
+                },
+                "student7": {
+                    "id": "29",
+                    "name": "SCOTT, AHERN"
+                },
+                "student8": {
+                    "id": "70",
+                    "name": "MICHAEL, BAILEY"
+                }
+            },
+            "FRIDAY-AM0800-AM1000": {
+                "student1": {
+                    "id": "79",
+                    "name": "BAHLEBBY, AMDEMICHAEL"
+                },
+                "student2": {
+                    "id": "68",
+                    "name": "NIKOS, APOSTOLOPOALOS"
+                },
+                "student3": {
+                    "id": "22",
+                    "name": "ABEL, AZUL"
+                },
+                "student4": {
+                    "id": "27",
+                    "name": "LOUIS, AGUILAR"
+                },
+                "student5": {
+                    "id": "46",
+                    "name": "RONALDO, ANGELES"
+                },
+                "student6": {
+                    "id": "69",
+                    "name": "MICHELLE, ASHFORD"
+                },
+                "student7": {
+                    "id": "16",
+                    "name": "BLAIR, ALTENBACH"
+                }
+            }
+        },
+        "Chemistry": {
+            "MONDAY-AM1030-PM1200": {
+                "student1": {
+                    "id": "79",
+                    "name": "BAHLEBBY, AMDEMICHAEL"
+                },
+                "student2": {
+                    "id": "68",
+                    "name": "NIKOS, APOSTOLOPOALOS"
+                },
+                "student3": {
+                    "id": "20",
+                    "name": "VINCENT, BALDASSANO"
+                },
+                "student4": {
+                    "id": "62",
+                    "name": "CAMUHOO, AITKEN"
+                },
+                "student5": {
+                    "id": "80",
+                    "name": "BILAL, ALI"
+                },
+                "student6": {
+                    "id": "33",
+                    "name": "MAJED, ASSAF"
+                },
+                "student7": {
+                    "id": "72",
+                    "name": "EARL, ALEXANDER"
+                },
+                "student8": {
+                    "id": "67",
+                    "name": "BAHLEBBY, AMDEMICHAEL"
+                },
+                "student9": {
+                    "id": "8",
+                    "name": "ROSS, ALEXANDER"
+                },
+                "student10": {
+                    "id": "9",
+                    "name": "MARSHALL, ANDREWS JR"
+                },
+                "student11": {
+                    "id": "55",
+                    "name": "JOSE, ALVAREZ"
+                },
+                "student12": {
+                    "id": "63",
+                    "name": "LUTHER, ANDERSON"
+                },
+                "student13": {
+                    "id": "4",
+                    "name": "DANIEL, ANDUJAR"
+                },
+                "student14": {
+                    "id": "39",
+                    "name": "MARY, ACCURSO"
+                },
+                "student15": {
+                    "id": "78",
+                    "name": "MIGUEL, BAHENA"
+                },
+                "student16": {
+                    "id": "74",
+                    "name": "MICHAEL, AUSTIN"
+                },
+                "student17": {
+                    "id": "77",
+                    "name": "FABIAN, ALBARRAN"
+                },
+                "student18": {
+                    "id": "41",
+                    "name": "CAROLYN, ALLAIN"
+                },
+                "student19": {
+                    "id": "17",
+                    "name": "SAMUEL, ALEGADO"
+                },
+                "student20": {
+                    "id": "51",
+                    "name": "MARIE, ALLEN"
+                }
+            },
+            "TUESDAY-PM0200-PM0330": {
+                "student1": {
+                    "id": "59",
+                    "name": "LESTER, ANDERSON"
+                },
+                "student2": {
+                    "id": "54",
+                    "name": "HASSAN, ABOUELKHEIR"
+                },
+                "student3": {
+                    "id": "31",
+                    "name": "CHRISTOPHER, ALONZO"
+                },
+                "student4": {
+                    "id": "11",
+                    "name": "CHRISTOPHER, AKINES"
+                },
+                "student5": {
+                    "id": "16",
+                    "name": "BLAIR, ALTENBACH"
+                },
+                "student6": {
+                    "id": "42",
+                    "name": "MARIO, ALONSO"
+                },
+                "student7": {
+                    "id": "15",
+                    "name": "GRACE, AKINLEMIBOLA"
+                },
+                "student8": {
+                    "id": "34",
+                    "name": "JASON, ARELLANO"
+                },
+                "student9": {
+                    "id": "12",
+                    "name": "WILLIAM, ABBRUZZESE"
+                },
+                "student10": {
+                    "id": "61",
+                    "name": "DAVID, ANDREWS"
+                },
+                "student11": {
+                    "id": "26",
+                    "name": "CHRISTOPHER, AKINES"
+                },
+                "student12": {
+                    "id": "70",
+                    "name": "MICHAEL, BAILEY"
+                }
+            }
+        },
+        "History": {
+            "THURSDAY-AM0830-AM1100": {
+                "student1": {
+                    "id": "30",
+                    "name": "LAZARO, ALTAMIRANO"
+                },
+                "student2": {
+                    "id": "62",
+                    "name": "CAMUHOO, AITKEN"
+                },
+                "student3": {
+                    "id": "71",
+                    "name": "DEBRA, ANTHONY SANDERS"
+                },
+                "student4": {
+                    "id": "45",
+                    "name": "ALEJANDRO, ALMAZAN"
+                },
+                "student5": {
+                    "id": "63",
+                    "name": "LUTHER, ANDERSON"
+                },
+                "student6": {
+                    "id": "19",
+                    "name": "EDWARD, ANNUNZIO"
+                },
+                "student7": {
+                    "id": "24",
+                    "name": "TIMOTHY, BAILEY"
+                },
+                "student8": {
+                    "id": "6",
+                    "name": "J, ALDANA"
+                },
+                "student9": {
+                    "id": "17",
+                    "name": "SAMUEL, ALEGADO"
+                },
+                "student10": {
+                    "id": "51",
+                    "name": "MARIE, ALLEN"
+                },
+                "student11": {
+                    "id": "50",
+                    "name": "HIRAM, ARAGONES"
+                },
+                "student12": {
+                    "id": "76",
+                    "name": "ROCCO, BALESTRI"
+                },
+                "student13": {
+                    "id": "57",
+                    "name": "RAGINA, BAGGETTE"
+                },
+                "student14": {
+                    "id": "54",
+                    "name": "HASSAN, ABOUELKHEIR"
+                },
+                "student15": {
+                    "id": "35",
+                    "name": "GRACE ANN, ARMOUR"
+                },
+                "student16": {
+                    "id": "60",
+                    "name": "RONALD, BADAMI"
+                },
+                "student17": {
+                    "id": "31",
+                    "name": "CHRISTOPHER, ALONZO"
+                },
+                "student18": {
+                    "id": "28",
+                    "name": "TIMOTHY, ALLEN"
+                },
+                "student19": {
+                    "id": "44",
+                    "name": "JEFFREY, ADAMOW"
+                },
+                "student20": {
+                    "id": "11",
+                    "name": "CHRISTOPHER, AKINES"
+                }
+            },
+            "FRIDAY-AM0800-AM1030": {
+                "student1": {
+                    "id": "21",
+                    "name": "RAY, AGUILAR"
+                },
+                "student2": {
+                    "id": "36",
+                    "name": "DAVID, ADAMS"
+                },
+                "student3": {
+                    "id": "53",
+                    "name": "JUANITA, AGUILAR"
+                },
+                "student4": {
+                    "id": "39",
+                    "name": "MARY, ACCURSO"
+                },
+                "student5": {
+                    "id": "78",
+                    "name": "MIGUEL, BAHENA"
+                },
+                "student6": {
+                    "id": "23",
+                    "name": "MOHAMMED, ABUBAKER"
+                },
+                "student7": {
+                    "id": "75",
+                    "name": "CHRIS, ANDERSEN"
+                },
+                "student8": {
+                    "id": "64",
+                    "name": "EVA, AVINA"
+                },
+                "student9": {
+                    "id": "10",
+                    "name": "MARK, ANDERSEN"
+                },
+                "student10": {
+                    "id": "13",
+                    "name": "LESTER, BAILEY"
+                },
+                "student11": {
+                    "id": "1",
+                    "name": "CANDELARIO, AQUINO"
+                },
+                "student12": {
+                    "id": "66",
+                    "name": "NANCY, ARROYO-FREGOSO"
+                },
+                "student13": {
+                    "id": "37",
+                    "name": "CONSTANTINE, ARGIRIS"
+                },
+                "student14": {
+                    "id": "40",
+                    "name": "BRUCE, ASKEW"
+                },
+                "student15": {
+                    "id": "2",
+                    "name": "THERON, AVERETT"
+                },
+                "student16": {
+                    "id": "58",
+                    "name": "BLANCA, BAHENA"
+                },
+                "student17": {
+                    "id": "43",
+                    "name": "CARA, BADER"
+                },
+                "student18": {
+                    "id": "56",
+                    "name": "JAMES, ALLEN"
+                },
+                "student19": {
+                    "id": "7",
+                    "name": "TIMOTHY, ALLEN"
+                }
+            }
+        },
+        "Sociology": {
+            "WEDNESDAY-PM0100-PM0300": {
+                "student1": {
+                    "id": "30",
+                    "name": "LAZARO, ALTAMIRANO"
+                },
+                "student2": {
+                    "id": "71",
+                    "name": "DEBRA, ANTHONY SANDERS"
+                },
+                "student3": {
+                    "id": "27",
+                    "name": "LOUIS, AGUILAR"
+                },
+                "student4": {
+                    "id": "53",
+                    "name": "JUANITA, AGUILAR"
+                },
+                "student5": {
+                    "id": "1",
+                    "name": "CANDELARIO, AQUINO"
+                },
+                "student6": {
+                    "id": "49",
+                    "name": "CARRIE, AUSTIN"
+                },
+                "student7": {
+                    "id": "66",
+                    "name": "NANCY, ARROYO-FREGOSO"
+                },
+                "student8": {
+                    "id": "37",
+                    "name": "CONSTANTINE, ARGIRIS"
+                },
+                "student9": {
+                    "id": "14",
+                    "name": "JAIME, ALVARADO"
+                },
+                "student10": {
+                    "id": "43",
+                    "name": "CARA, BADER"
+                },
+                "student11": {
+                    "id": "52",
+                    "name": "ALESIA, ARELLANO"
+                },
+                "student12": {
+                    "id": "12",
+                    "name": "WILLIAM, ABBRUZZESE"
+                },
+                "student13": {
+                    "id": "26",
+                    "name": "CHRISTOPHER, AKINES"
+                }
+            },
+            "FRIDAY-PM0100-PM0300": {
+                "student1": {
+                    "id": "68",
+                    "name": "NIKOS, APOSTOLOPOALOS"
+                },
+                "student2": {
+                    "id": "67",
+                    "name": "BAHLEBBY, AMDEMICHAEL"
+                },
+                "student3": {
+                    "id": "23",
+                    "name": "MOHAMMED, ABUBAKER"
+                },
+                "student4": {
+                    "id": "64",
+                    "name": "EVA, AVINA"
+                },
+                "student5": {
+                    "id": "10",
+                    "name": "MARK, ANDERSEN"
+                },
+                "student6": {
+                    "id": "2",
+                    "name": "THERON, AVERETT"
+                },
+                "student7": {
+                    "id": "3",
+                    "name": "ALEX, ANDERSON"
+                },
+                "student8": {
+                    "id": "58",
+                    "name": "BLANCA, BAHENA"
+                },
+                "student9": {
+                    "id": "56",
+                    "name": "JAMES, ALLEN"
+                },
+                "student10": {
+                    "id": "25",
+                    "name": "ISABEL, ARENAS"
+                },
+                "student11": {
+                    "id": "61",
+                    "name": "DAVID, ANDREWS"
+                }
+            }
+        },
+        "French": {
+            "MONDAY-AM0830-AM1030": {
+                "student1": {
+                    "id": "55",
+                    "name": "JOSE, ALVAREZ"
+                }
+            },
+            "TUESDAY-AM0800-AM1000": {
+                "student1": {
+                    "id": "20",
+                    "name": "VINCENT, BALDASSANO"
+                },
+                "student2": {
+                    "id": "71",
+                    "name": "DEBRA, ANTHONY SANDERS"
+                },
+                "student3": {
+                    "id": "17",
+                    "name": "SAMUEL, ALEGADO"
+                },
+                "student4": {
+                    "id": "14",
+                    "name": "JAIME, ALVARADO"
+                },
+                "student5": {
+                    "id": "12",
+                    "name": "WILLIAM, ABBRUZZESE"
+                }
+            }
+        },
+        "English": {
+            "TUESDAY-AM1030-PM1200": {
+                "student1": {
+                    "id": "21",
+                    "name": "RAY, AGUILAR"
+                },
+                "student2": {
+                    "id": "36",
+                    "name": "DAVID, ADAMS"
+                },
+                "student3": {
+                    "id": "65",
+                    "name": "DAVID, ALPERS"
+                },
+                "student4": {
+                    "id": "22",
+                    "name": "ABEL, AZUL"
+                },
+                "student5": {
+                    "id": "71",
+                    "name": "DEBRA, ANTHONY SANDERS"
+                },
+                "student6": {
+                    "id": "27",
+                    "name": "LOUIS, AGUILAR"
+                },
+                "student7": {
+                    "id": "45",
+                    "name": "ALEJANDRO, ALMAZAN"
+                },
+                "student8": {
+                    "id": "53",
+                    "name": "JUANITA, AGUILAR"
+                },
+                "student9": {
+                    "id": "19",
+                    "name": "EDWARD, ANNUNZIO"
+                },
+                "student10": {
+                    "id": "24",
+                    "name": "TIMOTHY, BAILEY"
+                },
+                "student11": {
+                    "id": "6",
+                    "name": "J, ALDANA"
+                },
+                "student12": {
+                    "id": "23",
+                    "name": "MOHAMMED, ABUBAKER"
+                },
+                "student13": {
+                    "id": "50",
+                    "name": "HIRAM, ARAGONES"
+                },
+                "student14": {
+                    "id": "46",
+                    "name": "RONALDO, ANGELES"
+                },
+                "student15": {
+                    "id": "59",
+                    "name": "LESTER, ANDERSON"
+                },
+                "student16": {
+                    "id": "76",
+                    "name": "ROCCO, BALESTRI"
+                },
+                "student17": {
+                    "id": "73",
+                    "name": "ELIZABETH, ALCANTARA"
+                },
+                "student18": {
+                    "id": "10",
+                    "name": "MARK, ANDERSEN"
+                },
+                "student19": {
+                    "id": "57",
+                    "name": "RAGINA, BAGGETTE"
+                },
+                "student20": {
+                    "id": "13",
+                    "name": "LESTER, BAILEY"
+                }
+            },
+            "WEDNESDAY-AM1000-AM1130": {
+                "student1": {
+                    "id": "30",
+                    "name": "LAZARO, ALTAMIRANO"
+                },
+                "student2": {
+                    "id": "62",
+                    "name": "CAMUHOO, AITKEN"
+                },
+                "student3": {
+                    "id": "80",
+                    "name": "BILAL, ALI"
+                },
+                "student4": {
+                    "id": "72",
+                    "name": "EARL, ALEXANDER"
+                },
+                "student5": {
+                    "id": "8",
+                    "name": "ROSS, ALEXANDER"
+                },
+                "student6": {
+                    "id": "9",
+                    "name": "MARSHALL, ANDREWS JR"
+                },
+                "student7": {
+                    "id": "63",
+                    "name": "LUTHER, ANDERSON"
+                },
+                "student8": {
+                    "id": "39",
+                    "name": "MARY, ACCURSO"
+                },
+                "student9": {
+                    "id": "41",
+                    "name": "CAROLYN, ALLAIN"
+                },
+                "student10": {
+                    "id": "17",
+                    "name": "SAMUEL, ALEGADO"
+                },
+                "student11": {
+                    "id": "51",
+                    "name": "MARIE, ALLEN"
+                },
+                "student12": {
+                    "id": "75",
+                    "name": "CHRIS, ANDERSEN"
+                },
+                "student13": {
+                    "id": "64",
+                    "name": "EVA, AVINA"
+                },
+                "student14": {
+                    "id": "54",
+                    "name": "HASSAN, ABOUELKHEIR"
+                },
+                "student15": {
+                    "id": "35",
+                    "name": "GRACE ANN, ARMOUR"
+                },
+                "student16": {
+                    "id": "1",
+                    "name": "CANDELARIO, AQUINO"
+                },
+                "student17": {
+                    "id": "60",
+                    "name": "RONALD, BADAMI"
+                },
+                "student18": {
+                    "id": "31",
+                    "name": "CHRISTOPHER, ALONZO"
+                },
+                "student19": {
+                    "id": "49",
+                    "name": "CARRIE, AUSTIN"
+                },
+                "student20": {
+                    "id": "66",
+                    "name": "NANCY, ARROYO-FREGOSO"
+                }
+            }
+        },
+        "Programming": {
+            "WEDNESDAY-PM0300-PM0500": {
+                "student1": {
+                    "id": "30",
+                    "name": "LAZARO, ALTAMIRANO"
+                },
+                "student2": {
+                    "id": "72",
+                    "name": "EARL, ALEXANDER"
+                },
+                "student3": {
+                    "id": "71",
+                    "name": "DEBRA, ANTHONY SANDERS"
+                },
+                "student4": {
+                    "id": "27",
+                    "name": "LOUIS, AGUILAR"
+                },
+                "student5": {
+                    "id": "53",
+                    "name": "JUANITA, AGUILAR"
+                },
+                "student6": {
+                    "id": "1",
+                    "name": "CANDELARIO, AQUINO"
+                },
+                "student7": {
+                    "id": "49",
+                    "name": "CARRIE, AUSTIN"
+                },
+                "student8": {
+                    "id": "66",
+                    "name": "NANCY, ARROYO-FREGOSO"
+                },
+                "student9": {
+                    "id": "37",
+                    "name": "CONSTANTINE, ARGIRIS"
+                },
+                "student10": {
+                    "id": "3",
+                    "name": "ALEX, ANDERSON"
+                },
+                "student11": {
+                    "id": "14",
+                    "name": "JAIME, ALVARADO"
+                },
+                "student12": {
+                    "id": "43",
+                    "name": "CARA, BADER"
+                },
+                "student13": {
+                    "id": "52",
+                    "name": "ALESIA, ARELLANO"
+                },
+                "student14": {
+                    "id": "12",
+                    "name": "WILLIAM, ABBRUZZESE"
+                },
+                "student15": {
+                    "id": "61",
+                    "name": "DAVID, ANDREWS"
+                },
+                "student16": {
+                    "id": "26",
+                    "name": "CHRISTOPHER, AKINES"
+                }
+            },
+            "FRIDAY-PM0100-PM0300": {
+                "student1": {
+                    "id": "8",
+                    "name": "ROSS, ALEXANDER"
+                },
+                "student2": {
+                    "id": "51",
+                    "name": "MARIE, ALLEN"
+                },
+                "student3": {
+                    "id": "47",
+                    "name": "SANDRA, ALLEN"
+                },
+                "student4": {
+                    "id": "18",
+                    "name": "JOHN, BAJIC"
+                },
+                "student5": {
+                    "id": "38",
+                    "name": "CLARISSA, ACEVEDO"
+                },
+                "student6": {
+                    "id": "15",
+                    "name": "GRACE, AKINLEMIBOLA"
+                },
+                "student7": {
+                    "id": "7",
+                    "name": "TIMOTHY, ALLEN"
+                }
+            }
+        },
+        "Music": {
+            "THURSDAY-AM0830-AM1100": {
+                "student1": {
+                    "id": "78",
+                    "name": "MIGUEL, BAHENA"
+                },
+                "student2": {
+                    "id": "23",
+                    "name": "MOHAMMED, ABUBAKER"
+                },
+                "student3": {
+                    "id": "75",
+                    "name": "CHRIS, ANDERSEN"
+                },
+                "student4": {
+                    "id": "10",
+                    "name": "MARK, ANDERSEN"
+                },
+                "student5": {
+                    "id": "13",
+                    "name": "LESTER, BAILEY"
+                },
+                "student6": {
+                    "id": "66",
+                    "name": "NANCY, ARROYO-FREGOSO"
+                },
+                "student7": {
+                    "id": "37",
+                    "name": "CONSTANTINE, ARGIRIS"
+                },
+                "student8": {
+                    "id": "40",
+                    "name": "BRUCE, ASKEW"
+                },
+                "student9": {
+                    "id": "2",
+                    "name": "THERON, AVERETT"
+                },
+                "student10": {
+                    "id": "58",
+                    "name": "BLANCA, BAHENA"
+                },
+                "student11": {
+                    "id": "43",
+                    "name": "CARA, BADER"
+                },
+                "student12": {
+                    "id": "56",
+                    "name": "JAMES, ALLEN"
+                },
+                "student13": {
+                    "id": "38",
+                    "name": "CLARISSA, ACEVEDO"
+                },
+                "student14": {
+                    "id": "34",
+                    "name": "JASON, ARELLANO"
+                },
+                "student15": {
+                    "id": "7",
+                    "name": "TIMOTHY, ALLEN"
+                }
+            },
+            "FRIDAY-AM0800-AM1030": {
+                "student1": {
+                    "id": "8",
+                    "name": "ROSS, ALEXANDER"
+                },
+                "student2": {
+                    "id": "9",
+                    "name": "MARSHALL, ANDREWS JR"
+                },
+                "student3": {
+                    "id": "63",
+                    "name": "LUTHER, ANDERSON"
+                },
+                "student4": {
+                    "id": "24",
+                    "name": "TIMOTHY, BAILEY"
+                },
+                "student5": {
+                    "id": "74",
+                    "name": "MICHAEL, AUSTIN"
+                },
+                "student6": {
+                    "id": "51",
+                    "name": "MARIE, ALLEN"
+                },
+                "student7": {
+                    "id": "76",
+                    "name": "ROCCO, BALESTRI"
+                },
+                "student8": {
+                    "id": "54",
+                    "name": "HASSAN, ABOUELKHEIR"
+                },
+                "student9": {
+                    "id": "35",
+                    "name": "GRACE ANN, ARMOUR"
+                },
+                "student10": {
+                    "id": "31",
+                    "name": "CHRISTOPHER, ALONZO"
+                },
+                "student11": {
+                    "id": "11",
+                    "name": "CHRISTOPHER, AKINES"
+                },
+                "student12": {
+                    "id": "42",
+                    "name": "MARIO, ALONSO"
+                },
+                "student13": {
+                    "id": "26",
+                    "name": "CHRISTOPHER, AKINES"
+                }
+            }
+        }
+    },
+    "students": {
+        "student1": {
+            "id": "79",
+            "name": "BAHLEBBY, AMDEMICHAEL",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,Biology-FRIDAY-AM0800-AM1000,Chemistry-MONDAY-AM1030-PM1200"
+        },
+        "student2": {
+            "id": "30",
+            "name": "LAZARO, ALTAMIRANO",
+            "classesTaken": "History-THURSDAY-AM0830-AM1100,English-WEDNESDAY-AM1000-AM1130,Sociology-WEDNESDAY-PM0100-PM0300,Programming-WEDNESDAY-PM0300-PM0500"
+        },
+        "student3": {
+            "id": "21",
+            "name": "RAY, AGUILAR",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-TUESDAY-AM1030-PM1200"
+        },
+        "student4": {
+            "id": "68",
+            "name": "NIKOS, APOSTOLOPOALOS",
+            "classesTaken": "Biology-FRIDAY-AM0800-AM1000,Chemistry-MONDAY-AM1030-PM1200,Mathematics-MONDAY-AM0830-AM1030,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student5": {
+            "id": "20",
+            "name": "VINCENT, BALDASSANO",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,Chemistry-MONDAY-AM1030-PM1200,French-TUESDAY-AM0800-AM1000"
+        },
+        "student6": {
+            "id": "62",
+            "name": "CAMUHOO, AITKEN",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Chemistry-MONDAY-AM1030-PM1200,History-THURSDAY-AM0830-AM1100,English-WEDNESDAY-AM1000-AM1130"
+        },
+        "student7": {
+            "id": "80",
+            "name": "BILAL, ALI",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,Physics-WEDNESDAY-AM0800-AM1000,Chemistry-MONDAY-AM1030-PM1200,English-WEDNESDAY-AM1000-AM1130"
+        },
+        "student8": {
+            "id": "36",
+            "name": "DAVID, ADAMS",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-TUESDAY-AM1030-PM1200"
+        },
+        "student9": {
+            "id": "65",
+            "name": "DAVID, ALPERS",
+            "classesTaken": "Biology-WEDNESDAY-AM0830-AM1030,English-TUESDAY-AM1030-PM1200"
+        },
+        "student10": {
+            "id": "33",
+            "name": "MAJED, ASSAF",
+            "classesTaken": "Biology-WEDNESDAY-AM0830-AM1030,Chemistry-MONDAY-AM1030-PM1200"
+        },
+        "student11": {
+            "id": "72",
+            "name": "EARL, ALEXANDER",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Mathematics-MONDAY-AM0830-AM1030,English-WEDNESDAY-AM1000-AM1130,Chemistry-MONDAY-AM1030-PM1200,Programming-WEDNESDAY-PM0300-PM0500"
+        },
+        "student12": {
+            "id": "67",
+            "name": "BAHLEBBY, AMDEMICHAEL",
+            "classesTaken": "Physics-TUESDAY-AM0830-AM1030,Chemistry-MONDAY-AM1030-PM1200,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student13": {
+            "id": "22",
+            "name": "ABEL, AZUL",
+            "classesTaken": "Physics-TUESDAY-AM0830-AM1030,Biology-FRIDAY-AM0800-AM1000,English-TUESDAY-AM1030-PM1200"
+        },
+        "student14": {
+            "id": "71",
+            "name": "DEBRA, ANTHONY SANDERS",
+            "classesTaken": "French-TUESDAY-AM0800-AM1000,English-TUESDAY-AM1030-PM1200,History-THURSDAY-AM0830-AM1100,Sociology-WEDNESDAY-PM0100-PM0300,Programming-WEDNESDAY-PM0300-PM0500"
+        },
+        "student15": {
+            "id": "8",
+            "name": "ROSS, ALEXANDER",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,Chemistry-MONDAY-AM1030-PM1200,English-WEDNESDAY-AM1000-AM1130,Programming-FRIDAY-PM0100-PM0300"
+        },
+        "student16": {
+            "id": "9",
+            "name": "MARSHALL, ANDREWS JR",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,Chemistry-MONDAY-AM1030-PM1200,English-WEDNESDAY-AM1000-AM1130"
+        },
+        "student17": {
+            "id": "55",
+            "name": "JOSE, ALVAREZ",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,Chemistry-MONDAY-AM1030-PM1200,French-MONDAY-AM0830-AM1030"
+        },
+        "student18": {
+            "id": "27",
+            "name": "LOUIS, AGUILAR",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,English-TUESDAY-AM1030-PM1200,Biology-FRIDAY-AM0800-AM1000,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300"
+        },
+        "student19": {
+            "id": "45",
+            "name": "ALEJANDRO, ALMAZAN",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,History-THURSDAY-AM0830-AM1100,English-TUESDAY-AM1030-PM1200"
+        },
+        "student20": {
+            "id": "53",
+            "name": "JUANITA, AGUILAR",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-TUESDAY-AM1030-PM1200,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300"
+        },
+        "student21": {
+            "id": "63",
+            "name": "LUTHER, ANDERSON",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,Chemistry-MONDAY-AM1030-PM1200,English-WEDNESDAY-AM1000-AM1130,History-THURSDAY-AM0830-AM1100"
+        },
+        "student22": {
+            "id": "19",
+            "name": "EDWARD, ANNUNZIO",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,English-TUESDAY-AM1030-PM1200,History-THURSDAY-AM0830-AM1100"
+        },
+        "student23": {
+            "id": "4",
+            "name": "DANIEL, ANDUJAR",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,Biology-WEDNESDAY-AM0830-AM1030,Chemistry-MONDAY-AM1030-PM1200"
+        },
+        "student24": {
+            "id": "24",
+            "name": "TIMOTHY, BAILEY",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,English-TUESDAY-AM1030-PM1200,History-THURSDAY-AM0830-AM1100"
+        },
+        "student25": {
+            "id": "39",
+            "name": "MARY, ACCURSO",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Chemistry-MONDAY-AM1030-PM1200,English-WEDNESDAY-AM1000-AM1130"
+        },
+        "student26": {
+            "id": "6",
+            "name": "J, ALDANA",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,English-TUESDAY-AM1030-PM1200,History-THURSDAY-AM0830-AM1100"
+        },
+        "student27": {
+            "id": "78",
+            "name": "MIGUEL, BAHENA",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100,Chemistry-MONDAY-AM1030-PM1200"
+        },
+        "student28": {
+            "id": "74",
+            "name": "MICHAEL, AUSTIN",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,Chemistry-MONDAY-AM1030-PM1200"
+        },
+        "student29": {
+            "id": "77",
+            "name": "FABIAN, ALBARRAN",
+            "classesTaken": "Biology-WEDNESDAY-AM0830-AM1030,Chemistry-MONDAY-AM1030-PM1200,Mathematics-TUESDAY-AM0800-AM1000"
+        },
+        "student30": {
+            "id": "41",
+            "name": "CAROLYN, ALLAIN",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,Physics-WEDNESDAY-AM0800-AM1000,Chemistry-MONDAY-AM1030-PM1200,English-WEDNESDAY-AM1000-AM1130"
+        },
+        "student31": {
+            "id": "17",
+            "name": "SAMUEL, ALEGADO",
+            "classesTaken": "History-THURSDAY-AM0830-AM1100,French-TUESDAY-AM0800-AM1000,Chemistry-MONDAY-AM1030-PM1200,English-WEDNESDAY-AM1000-AM1130"
+        },
+        "student32": {
+            "id": "23",
+            "name": "MOHAMMED, ABUBAKER",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-TUESDAY-AM1030-PM1200,Music-THURSDAY-AM0830-AM1100,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student33": {
+            "id": "51",
+            "name": "MARIE, ALLEN",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,Chemistry-MONDAY-AM1030-PM1200,History-THURSDAY-AM0830-AM1100,English-WEDNESDAY-AM1000-AM1130,Programming-FRIDAY-PM0100-PM0300"
+        },
+        "student34": {
+            "id": "50",
+            "name": "HIRAM, ARAGONES",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,English-TUESDAY-AM1030-PM1200,History-THURSDAY-AM0830-AM1100"
+        },
+        "student35": {
+            "id": "46",
+            "name": "RONALDO, ANGELES",
+            "classesTaken": "Biology-FRIDAY-AM0800-AM1000,English-TUESDAY-AM1030-PM1200"
+        },
+        "student36": {
+            "id": "59",
+            "name": "LESTER, ANDERSON",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,Biology-WEDNESDAY-AM0830-AM1030,English-TUESDAY-AM1030-PM1200,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student37": {
+            "id": "76",
+            "name": "ROCCO, BALESTRI",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,English-TUESDAY-AM1030-PM1200,History-THURSDAY-AM0830-AM1100"
+        },
+        "student38": {
+            "id": "75",
+            "name": "CHRIS, ANDERSEN",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-WEDNESDAY-AM1000-AM1130,Music-THURSDAY-AM0830-AM1100"
+        },
+        "student39": {
+            "id": "64",
+            "name": "EVA, AVINA",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-WEDNESDAY-AM1000-AM1130,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student40": {
+            "id": "73",
+            "name": "ELIZABETH, ALCANTARA",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,English-TUESDAY-AM1030-PM1200,Physics-WEDNESDAY-AM0800-AM1000"
+        },
+        "student41": {
+            "id": "10",
+            "name": "MARK, ANDERSEN",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-TUESDAY-AM1030-PM1200,Music-THURSDAY-AM0830-AM1100,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student42": {
+            "id": "57",
+            "name": "RAGINA, BAGGETTE",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,History-THURSDAY-AM0830-AM1100,English-TUESDAY-AM1030-PM1200"
+        },
+        "student43": {
+            "id": "54",
+            "name": "HASSAN, ABOUELKHEIR",
+            "classesTaken": "History-THURSDAY-AM0830-AM1100,Music-FRIDAY-AM0800-AM1030,English-WEDNESDAY-AM1000-AM1130,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student44": {
+            "id": "13",
+            "name": "LESTER, BAILEY",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-TUESDAY-AM1030-PM1200,Music-THURSDAY-AM0830-AM1100"
+        },
+        "student45": {
+            "id": "35",
+            "name": "GRACE ANN, ARMOUR",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,History-THURSDAY-AM0830-AM1100,English-WEDNESDAY-AM1000-AM1130"
+        },
+        "student46": {
+            "id": "1",
+            "name": "CANDELARIO, AQUINO",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,English-WEDNESDAY-AM1000-AM1130,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300"
+        },
+        "student47": {
+            "id": "60",
+            "name": "RONALD, BADAMI",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,History-THURSDAY-AM0830-AM1100,English-WEDNESDAY-AM1000-AM1130"
+        },
+        "student48": {
+            "id": "31",
+            "name": "CHRISTOPHER, ALONZO",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,English-WEDNESDAY-AM1000-AM1130,History-THURSDAY-AM0830-AM1100,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student49": {
+            "id": "49",
+            "name": "CARRIE, AUSTIN",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,Physics-WEDNESDAY-AM0800-AM1000,English-WEDNESDAY-AM1000-AM1130,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300"
+        },
+        "student50": {
+            "id": "66",
+            "name": "NANCY, ARROYO-FREGOSO",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100,English-WEDNESDAY-AM1000-AM1130,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300"
+        },
+        "student51": {
+            "id": "69",
+            "name": "MICHELLE, ASHFORD",
+            "classesTaken": "Physics-TUESDAY-AM0830-AM1030,Biology-FRIDAY-AM0800-AM1000"
+        },
+        "student52": {
+            "id": "32",
+            "name": "PATRICK, ASHE",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,Physics-WEDNESDAY-AM0800-AM1000"
+        },
+        "student53": {
+            "id": "37",
+            "name": "CONSTANTINE, ARGIRIS",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300"
+        },
+        "student54": {
+            "id": "48",
+            "name": "ROBERT, AMSTADT",
+            "classesTaken": "Physics-TUESDAY-AM0830-AM1030"
+        },
+        "student55": {
+            "id": "28",
+            "name": "TIMOTHY, ALLEN",
+            "classesTaken": "History-THURSDAY-AM0830-AM1100,Physics-WEDNESDAY-AM0800-AM1000"
+        },
+        "student56": {
+            "id": "40",
+            "name": "BRUCE, ASKEW",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100"
+        },
+        "student57": {
+            "id": "47",
+            "name": "SANDRA, ALLEN",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Mathematics-MONDAY-AM0830-AM1030,Programming-FRIDAY-PM0100-PM0300"
+        },
+        "student58": {
+            "id": "2",
+            "name": "THERON, AVERETT",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student59": {
+            "id": "44",
+            "name": "JEFFREY, ADAMOW",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,History-THURSDAY-AM0830-AM1100"
+        },
+        "student60": {
+            "id": "3",
+            "name": "ALEX, ANDERSON",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Mathematics-MONDAY-AM0830-AM1030,Programming-WEDNESDAY-PM0300-PM0500,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student61": {
+            "id": "11",
+            "name": "CHRISTOPHER, AKINES",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,History-THURSDAY-AM0830-AM1100,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student62": {
+            "id": "58",
+            "name": "BLANCA, BAHENA",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student63": {
+            "id": "5",
+            "name": "TERRY, ALLEN",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Mathematics-MONDAY-AM0830-AM1030"
+        },
+        "student64": {
+            "id": "16",
+            "name": "BLAIR, ALTENBACH",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,Biology-FRIDAY-AM0800-AM1000,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student65": {
+            "id": "14",
+            "name": "JAIME, ALVARADO",
+            "classesTaken": "French-TUESDAY-AM0800-AM1000,Mathematics-MONDAY-AM0830-AM1030,Sociology-WEDNESDAY-PM0100-PM0300,Programming-WEDNESDAY-PM0300-PM0500"
+        },
+        "student66": {
+            "id": "42",
+            "name": "MARIO, ALONSO",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student67": {
+            "id": "43",
+            "name": "CARA, BADER",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300"
+        },
+        "student68": {
+            "id": "56",
+            "name": "JAMES, ALLEN",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student69": {
+            "id": "18",
+            "name": "JOHN, BAJIC",
+            "classesTaken": "Biology-WEDNESDAY-AM0830-AM1030,Mathematics-TUESDAY-AM0800-AM1000,Programming-FRIDAY-PM0100-PM0300"
+        },
+        "student70": {
+            "id": "38",
+            "name": "CLARISSA, ACEVEDO",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Music-THURSDAY-AM0830-AM1100,Programming-FRIDAY-PM0100-PM0300"
+        },
+        "student71": {
+            "id": "15",
+            "name": "GRACE, AKINLEMIBOLA",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Mathematics-MONDAY-AM0830-AM1030,Programming-FRIDAY-PM0100-PM0300,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student72": {
+            "id": "29",
+            "name": "SCOTT, AHERN",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,Biology-WEDNESDAY-AM0830-AM1030"
+        },
+        "student73": {
+            "id": "34",
+            "name": "JASON, ARELLANO",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Music-THURSDAY-AM0830-AM1100,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student74": {
+            "id": "52",
+            "name": "ALESIA, ARELLANO",
+            "classesTaken": "Mathematics-MONDAY-AM0830-AM1030,Sociology-WEDNESDAY-PM0100-PM0300,Programming-WEDNESDAY-PM0300-PM0500"
+        },
+        "student75": {
+            "id": "25",
+            "name": "ISABEL, ARENAS",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,Sociology-FRIDAY-PM0100-PM0300"
+        },
+        "student76": {
+            "id": "12",
+            "name": "WILLIAM, ABBRUZZESE",
+            "classesTaken": "French-TUESDAY-AM0800-AM1000,Mathematics-MONDAY-AM0830-AM1030,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student77": {
+            "id": "61",
+            "name": "DAVID, ANDREWS",
+            "classesTaken": "Physics-WEDNESDAY-AM0800-AM1000,Mathematics-MONDAY-AM0830-AM1030,Programming-WEDNESDAY-PM0300-PM0500,Sociology-FRIDAY-PM0100-PM0300,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student78": {
+            "id": "7",
+            "name": "TIMOTHY, ALLEN",
+            "classesTaken": "History-FRIDAY-AM0800-AM1030,Music-THURSDAY-AM0830-AM1100,Programming-FRIDAY-PM0100-PM0300"
+        },
+        "student79": {
+            "id": "26",
+            "name": "CHRISTOPHER, AKINES",
+            "classesTaken": "Music-FRIDAY-AM0800-AM1030,Programming-WEDNESDAY-PM0300-PM0500,Sociology-WEDNESDAY-PM0100-PM0300,Chemistry-TUESDAY-PM0200-PM0330"
+        },
+        "student80": {
+            "id": "70",
+            "name": "MICHAEL, BAILEY",
+            "classesTaken": "Mathematics-TUESDAY-AM0800-AM1000,Biology-WEDNESDAY-AM0830-AM1030,Chemistry-TUESDAY-PM0200-PM0330"
+        }
+    }
+}

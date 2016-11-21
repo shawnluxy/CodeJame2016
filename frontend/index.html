@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+
+<html ng-app="myApp">
+<head>
+	<title>Visualize by TEMPLATED</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+    
+    				<!-- All the files that are required -->
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+    
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-resource.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-route.min.js"></script>
+    
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+</head>
+<body ng-controller="myCtrl">
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Header -->
+		<header id="header">
+			 <span class="avatar"><img src="images/codejam.png" alt="" /></span>
+			<h1>This is <strong>NULL</strong>, the most responsive and user friendly class schedule that ever exists.</h1>
+            <!--
+				<ul class="icons">
+					<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="#" class="icon style2 fa-500px"><span class="label">500px</span></a></li>
+					<li><a href="#" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+
+            -->
+			</header>
+
+			<!-- Main -->
+			<section id="main">
+
+
+
+<!-- Where all the magic happens -->
+<!-- LOGIN FORM -->
+<div class="text-center col-md-4" style="padding:0 0 50px 0">
+	<div class="logo" style="text-align: center;">login</div>
+	<!-- Main Form -->
+	<div class="login-form-1" style="position: absolute;left: 0px;right: 0px;margin: auto;">
+		<form id="login-form" class="text-left">
+			<div class="login-form-main-message"></div>
+			<div class="main-login-form">
+				<div class="login-group">
+					<div class="form-group">
+						<label for="lg_username" class="sr-only">Username</label>
+						<input type="text" class="form-control" id="lg_username" name="lg_username" placeholder="username" ng-model="username">
+					</div>
+				</div>
+				<button id="login" type="submit" class="login-button"><i class="fa fa-chevron-right"></i></button>
+			</div>
+		</form>
+	</div>
+	<!-- end:Main Form -->
+</div>
+                <div class="container">
+                    <div class="col-lg-12">
+                    <h4 id="usernameError" ng-class="{usernameinfo: usernameinfo}" align="center" style="padding: 50px 0 0 0 ">{{ infoMessageHandler() }}</h4>
+                    </div>
+                </div>
+                
+
+				</section>
+
+					<!-- Footer -->
+					<footer id="footer">
+						<p>&copy; Code.Jam( ) Team24.</p>
+					</footer>
+
+				</div>
+
+				<!-- Scripts -->
+				<script src="assets/js/jquery.min.js"></script>
+				<script src="assets/js/jquery.poptrox.min.js"></script>
+				<script src="assets/js/skel.min.js"></script>
+				<script src="assets/js/main.js"></script>
+    				<!--<script src="assets/js/app.js"></script>-->
+    				<script src="index.js"></script>
+    				<script>
+//  					angularApp();
+    					initial();
+    				</script>
+    
+			</body>
+			</html>
